@@ -387,3 +387,6 @@ input:focus {
 #name-error {
   color: var(--blanco);
 }
+h1 {
+  color: red;
+}
